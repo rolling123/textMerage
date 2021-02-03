@@ -5,7 +5,10 @@
 			<div class="left">
 				<p>Copyright @ 2003-2019 浙江浙大中控信息技术有限公司  保留一切权利  浙IPC备05002928号</p>
 				<p>浙公安网安备33010802002206</p>
+<<<<<<< HEAD
 				dddddddddddddddddddd
+=======
+>>>>>>> dev2.0
 			</div>
 			<div class="right">
 				<span>法律声明</span>
